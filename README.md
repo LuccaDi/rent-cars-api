@@ -38,7 +38,7 @@
 
 **RN**
 
-O usuário não precisa estar logado no sistema.
+- O usuário não precisa estar logado no sistema.
 
 
 # Cadastro de Especificação no carro

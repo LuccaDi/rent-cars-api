@@ -17,7 +17,7 @@
 
 - O carro deve ser cadastrado, por padrão, com disponibilidade.
 
-- * O usuário responsável pelo cadastro deve ser um usuário administrador.
+- O usuário responsável pelo cadastro deve ser um usuário administrador.
 
 
 # Listagem de carros
@@ -43,10 +43,6 @@
 
 - Deve ser possível cadastrar uma especificação para um carro.
 
-- Deve ser possível listar todas as especificações.
-
-- Deve ser possível listar todos os carros.
-
 **RN**
 
 - Não deve ser possível cadastrar uma especificação para um carro não cadastrado.
@@ -61,8 +57,6 @@
 **RF**
 
 - Deve ser possível cadastrar a imagem do carro.
-
-- Deve ser possível listar todos os carros.
 
 **RNF**
 
